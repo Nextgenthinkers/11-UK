@@ -8,3 +8,4 @@
 * Time(https://www.youtube.com/watch?v=WLAZpKY-9Ks)
 * Year 6,5,7  chapterwise papers(https://www.parkfieldsschool.co.uk/self_study/year_6/maths/maths.html#)
 * Year7(https://www.parkfieldsschool.co.uk/self_study/year_7/maths/maths.html)
+* worksheet websit(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.st-josephs.slough.sch.uk/assets/Year-7-Maths-Scheme-of-Work.pdf)
