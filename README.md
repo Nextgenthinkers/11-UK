@@ -6,4 +6,5 @@
 * SAT Practice Papers(https://www.satspapersguide.co.uk/sats-information/free-sats-resources/free-maths-sats-resources/)
 * SAT Previous year question papers(https://www.sats-papers.co.uk/ks2-sats-papers/)
 * Time(https://www.youtube.com/watch?v=WLAZpKY-9Ks)
-* Year 6,5,7  chapterwise papers(https://www.parkfieldsschool.co.uk/self_study/year_6/maths/maths.html#) 
+* Year 6,5,7  chapterwise papers(https://www.parkfieldsschool.co.uk/self_study/year_6/maths/maths.html#)
+* Year7(https://www.parkfieldsschool.co.uk/self_study/year_7/maths/maths.html)
