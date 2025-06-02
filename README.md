@@ -11,3 +11,5 @@
 * worksheet websit(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.st-josephs.slough.sch.uk/assets/Year-7-Maths-Scheme-of-Work.pdf)
 * book year7(https://www.cimt.org.uk/projects/mepres/book7/book7.htm)
 * book(https://www.mathsociety.org.uk/ks3mathsyear7and8)
+* year6(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.oakmeadow.com/wp-content/uploads/2021/07/Grade-6-Math-Workbook-Curriculum-Sample-July-2021.pdf)
+* year6(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.alecreedacademy.co.uk/_site/data/files/documents/88391C88C66C53FDA291A3D64C77E3B6.pdf)
