@@ -13,4 +13,7 @@
 * book(https://www.mathsociety.org.uk/ks3mathsyear7and8)
 * year6(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.oakmeadow.com/wp-content/uploads/2021/07/Grade-6-Math-Workbook-Curriculum-Sample-July-2021.pdf)
 * year6(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.alecreedacademy.co.uk/_site/data/files/documents/88391C88C66C53FDA291A3D64C77E3B6.pdf)
-* ## Activity book year3(https://online.flipbuilder.com/rslc/tqgj/)
+* ## Activity book year3
+* (https://online.flipbuilder.com/rslc/tqgj/)
+* (https://online.flipbuilder.com/rslc/tnyl/)
+* (https://online.flipbuilder.com/rslc/ldzw/)
