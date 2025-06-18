@@ -28,3 +28,4 @@
 * (https://online.flipbuilder.com/rslc/iqfa/)
 * (https://online.flipbuilder.com/ahgqd/xksf/)
 * crison (https://online.flipbuilder.com/rslc/zqlu/)
+* Power maths year6(https://www.pearsonschoolsandfecolleges.co.uk/primary/global-pages/power-maths-practice-book-answers)
