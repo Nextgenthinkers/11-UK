@@ -20,3 +20,7 @@
 * ## CGP Year6
 * (https://online.flipbuilder.com/rslc/zeop/index.html)
 * Practice book year6 (https://online.flipbuilder.com/rslc/zkoe/)
+* ## Activity book year6
+* (https://online.flipbuilder.com/rslc/cepr/)
+* (https://online.flipbuilder.com/rslc/jzmh/)
+* (https://online.flipbuilder.com/rslc/viny/)
