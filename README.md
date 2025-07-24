@@ -17,6 +17,7 @@
 * (https://online.flipbuilder.com/rslc/tqgj/)
 * (https://online.flipbuilder.com/rslc/tnyl/)
 * (https://online.flipbuilder.com/rslc/ldzw/)
+* workbook(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.risdubai.com/ebooks/PDF_ebooks/Y3%20Math%20Abacus%20Math%20Workbook%20Year%203.pdf)
 * ## CGP Year6
 * (https://online.flipbuilder.com/rslc/zeop/index.html)
 * Practice book year6 (https://online.flipbuilder.com/rslc/zkoe/)
