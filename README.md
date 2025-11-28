@@ -24,6 +24,7 @@
 * Power(https://www.scribd.com/document/669316934/Power-Maths-Textbook-3A)
 * Live time based tables(https://www.timestables.com/speed-test/)
 * Extra practice worksheet(https://www.st-gregorygreat.gloucs.sch.uk/y3-maths-extra-practice/)
+* worksheet all chapters(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://tockwith.ebor.academy/wp-content/uploads/2018/02/Year-3-Maths-Homework-Sheets.pdf)
 * ## CGP Year6
 * (https://online.flipbuilder.com/rslc/zeop/index.html)
 * Practice book year6 (https://online.flipbuilder.com/rslc/zkoe/)
