@@ -2,7 +2,12 @@
 11+ UK
 
 * [11+ Practice papers(https://www.sats-papers.co.uk/11-plus-papers/)]
+* All GlAssessment questions(https://www.scribd.com/search?query=11%20plus%20gl%20assessment%20maths&suggestion_id=long-0434dcdd5f22e08de629cb80a978b04e&verbatim=true)
 * GL Assessment collins(https://www.scribd.com/document/881722024/11-Plus-Maths-Complete-GL)
+* Gl Assessment practice pack1(https://www.scribd.com/document/677645066/11-Plus-Maths-GL-Style-Pack-1-Test-Paper-1-sde)
+* GL Assessment(https://www.scribd.com/document/704302589/11-plus-gl-assessment-maths-question-booklet)
+* GL(https://www.scribd.com/document/704302589/11-plus-gl-assessment-maths-question-booklet)
+* Gl(https://www.scribd.com/document/874235375/The-Exam-Coach-11-GL-Mathematics-Paper-5)
 * 11+ paper of all schools(https://www.thinkacademy.uk/resource)
 * online test(https://www.thinkacademy.uk/quiz/evaluation/instruction/4093?source_id=4457&source_type=1&utm_medium=sem&utm_source=sem_google)
 * [fraction to amount word problems(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2013/02/fraction-of-an-amount-pdf2.pdf)]
