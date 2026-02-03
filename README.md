@@ -56,3 +56,4 @@
 * Year7 Practice(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://roytoncrompton.e-act.org.uk/wp-content/uploads/sites/5/2020/03/Maths-YEAR-7-booklet.pdf)
 * Year 7 (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.oakmeadow.com/wp-content/uploads/2021/07/Grade-7-Math-Workbook-Curriculum-Sample-July-2021.pdf)
 * year7(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://turingsebook.com/sites/default/files/ebooks/Math7-3rdEd.pdf)
+* year 7 khan academy parctice(https://www.khanacademy.org/math/uk-math-class-7)
