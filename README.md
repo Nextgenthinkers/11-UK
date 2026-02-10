@@ -61,3 +61,7 @@
 * Series pattern till 10 at the bottom(https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002) 
 * Series  pattern 10 sets at the bottom(https://www.sanfoundry.com/logical-reasoning-questions-answers-pattern-completion/)
 * Series pattern (https://www.scribd.com/document/490804663/Pattern-Completion-Non-Verbal-Reasoning-Questions-And-Answers)
+* Disha (https://www.scribd.com/document/423480103/Verbal-Non-Verbal-Reasoning-for-Competitive-Exams-1-pdf#page=299)
+* Non verbal  GL(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.stmarys-kl.cumbria.sch.uk/wp-content/uploads/2018/08/NVR_familiarisation_booklet.pdf
+* RS Aggarwal(http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20H/MATHAMITICS/Reasoning%20Verbal%20Nonverbal%20RS%20Aggarwal.pdf)
+* BOND (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bond11plus.co.uk/images/material/bond%2011%20plus%20non%20verbal%20reasoning%20free%20test%20paper.pdf)
