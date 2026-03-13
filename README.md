@@ -57,6 +57,7 @@
 * Year 7 (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.oakmeadow.com/wp-content/uploads/2021/07/Grade-7-Math-Workbook-Curriculum-Sample-July-2021.pdf)
 * year7(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://turingsebook.com/sites/default/files/ebooks/Math7-3rdEd.pdf)
 * year 7 khan academy parctice(https://www.khanacademy.org/math/uk-math-class-7)
+* Expansion(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2013/02/expanding-brackets-pdf1.pdf)
 * ## Non Verbal Reasoning
 * Series pattern till 10 at the bottom(https://www.indiabix.com/non-verbal-reasoning/pattern-completion/015002) 
 * Series  pattern 10 sets at the bottom(https://www.sanfoundry.com/logical-reasoning-questions-answers-pattern-completion/)
