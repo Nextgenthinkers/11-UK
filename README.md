@@ -38,6 +38,7 @@
 * Live time based division(https://www.mathmammoth.com/practice/division)
 * Extra practice worksheet(https://www.st-gregorygreat.gloucs.sch.uk/y3-maths-extra-practice/)
 * worksheet all chapters(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://tockwith.ebor.academy/wp-content/uploads/2018/02/Year-3-Maths-Homework-Sheets.pdf)
+* CGP Year3(https://www.scribd.com/document/962498950/Cgp-Maths-Year-3-Noripreschool-Targeted-Question-Book)
 * ## CGP Year6
 * (https://online.flipbuilder.com/rslc/zeop/index.html)
 * Practice book year6 (https://online.flipbuilder.com/rslc/zkoe/)
